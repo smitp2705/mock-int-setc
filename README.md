@@ -10,6 +10,7 @@
 # Power BI:
   - Interactive data visualization and reporting 
   - KPI cards tracking average score, attendance percentage, and training benchmarks.
+  - Dashboard - '![Uploading Screenshot 2026-09-26 171154.png…]()'
 # Excel:
   - Pivot tables, statistical summaries, and formula-based validation
 # Python (Pandas, Matplotlib/Seaborn):
