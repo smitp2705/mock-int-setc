@@ -3,16 +3,16 @@
 
 ##  Tools 
 
-- **SQL (MySQL 8.0+)**:
+# SQL (MySQL 8.0+):
   - Relational schema modeling with primary and foreign key constraints.
   - Data integrity and deduplication.
   - Multi-table joins, conditional aggregations, window functions, and performance rankings.
-- **Power BI**:
+#Power BI:
   - Interactive data visualization and reporting 
   - KPI cards tracking average score, attendance percentage, and training benchmarks.
-- **Microsoft Excel**:
+# Excel:
   - Pivot tables, statistical summaries, and formula-based validation
-- **Python (Pandas, Matplotlib/Seaborn)**:
+#Python (Pandas, Matplotlib/Seaborn):
   - Data cleaning and preprocessing pipelines.
   - Summary aggregation and automated reporting.
   - Performance distribution and trend plotting.
